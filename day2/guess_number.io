@@ -2,7 +2,6 @@ myNumber := Random value(100) round
 #uncomment for testing
 #myNumber println
 
-stdin := File standardInput
 lastDistance := 100
 guesses := 0
 solved := false
